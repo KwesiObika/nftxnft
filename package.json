@@ -1,0 +1,24 @@
+{
+  "name": "nftxnft",
+  "version": "1.0.0",
+  "description": "a nft tranfer application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwesiObika/nftxnft.git"
+  },
+  "keywords": [
+    "nfc",
+    "nft",
+    "nodejs"
+  ],
+  "author": "Ahoto & Sayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwesiObika/nftxnft/issues"
+  },
+  "homepage": "https://github.com/KwesiObika/nftxnft#readme"
+}
